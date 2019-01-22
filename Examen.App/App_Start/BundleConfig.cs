@@ -22,6 +22,15 @@ namespace Examen.App
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+
+            bundles.Add(new ScriptBundle("~/bundles/angular").Include(
+                      "~/Scripts/runtime*",
+                      "~/Scripts/polyfills*",
+                      "~/Scripts/main*",
+                      "~/Scripts/1*",
+                      "~/Scripts/5*",
+                      "~/Scripts/6*"));
         }
     }
 }

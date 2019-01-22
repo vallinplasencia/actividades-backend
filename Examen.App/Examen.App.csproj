@@ -282,9 +282,13 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\styles.aa391a676eb0202a623c.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\1.fa4d65ece98b01e3ff09.js" />
+    <Content Include="Scripts\5.53671be43d30c2f706d8.js" />
+    <Content Include="Scripts\6.a5ddc8712c13a4986513.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
@@ -316,7 +320,10 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\main.162c5b45b0c69cb326b3.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\polyfills.2fd5ebaa56f7df5af06b.js" />
+    <Content Include="Scripts\runtime.40146aa809f3047a06a6.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
