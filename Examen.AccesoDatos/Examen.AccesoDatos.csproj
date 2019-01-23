@@ -66,9 +66,6 @@
     <Compile Include="Repositorios\TareaRepo.cs" />
     <Compile Include="Repositorios\MiActividadRepo.cs" />
     <Compile Include="Repositorios\ActividadRepo.cs" />
-    <Compile Include="Repositorios\ActivoRepo.cs" />
-    <Compile Include="Repositorios\CategoriaRepo.cs" />
-    <Compile Include="Repositorios\ResponsableRepo.cs" />
     <Compile Include="Repositorios\TrabajadorRepo.cs" />
   </ItemGroup>
   <ItemGroup>

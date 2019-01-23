@@ -74,10 +74,6 @@ namespace Examen.App.Util
             container.RegisterType<IMiActividadRepo, MiActividadRepo>();
             container.RegisterType<ITareaRepo, TareaRepo>();
             container.RegisterType<ITrabajadorRepo, TrabajadorRepo>();
-
-            container.RegisterType<ICategoriaRepo, CategoriaRepo>();
-            container.RegisterType<IResponsableRepo, ResponsableRepo>();
-            container.RegisterType<IActivoRepo, ActivoRepo>();
             
             //container.RegisterType<ICategoriaRepo, CategoriaRepo>(new HierarchicalLifetimeManager());
             //container.RegisterInstance(typeof(IXxxRepository), new XxxRepository());
